@@ -1,0 +1,14 @@
+figure.figsize : 6.4, 4.8 # default figure size in inches
+lines.linewidth : 1.5
+figure.dpi : 600          # resolution of bitmap graphics
+font.size : 10.0
+text.usetex : False        # do not use TeX in labels
+axes.titlesize:     10.0
+xtick.top:           True
+xtick.bottom:        True
+xtick.direction:      in
+xtick.minor.visible: True
+ytick.left:          True
+ytick.right:         True
+ytick.direction:     in
+ytick.minor.visible: True
